@@ -6,6 +6,10 @@ Camera calibration is a key skill in computer vision and robotics. It is essenti
 - OpenCV (C++ API)
 - Ubuntu 22.04 (WSL2)
 
+# PRE-REQUISITES AND INSTALLATION (UBUNTU 22.04)
+sudo apt-get update
+sudo apt-get install libopencv-dev
+
 # RESULTS
 - # CORNER DETECTION
 ![Corner Detection (4)](https://github.com/user-attachments/assets/823cd323-47df-4b19-810d-f0616c6fbac4)
@@ -15,3 +19,5 @@ Camera calibration is a key skill in computer vision and robotics. It is essenti
 ![Original vs Undistorted](https://github.com/user-attachments/assets/2a85272d-2bf8-4731-a243-706260f9863f)
 ![Camera Parameters](https://github.com/user-attachments/assets/64e9dab6-42cf-48a7-86cf-3f6205514df3)
 
+# NEXT STEPS
+Prepare my own dataset and apply camera calibration for 3D reconstruction of an environment using Python or C++.
