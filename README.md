@@ -7,8 +7,8 @@ Camera calibration is a key skill in computer vision and robotics. It is essenti
 - Ubuntu 22.04 (WSL2)
 
 # PRE-REQUISITES AND INSTALLATION (UBUNTU 22.04)
-sudo apt-get update
-sudo apt-get install libopencv-dev
+- sudo apt-get update
+- sudo apt-get install libopencv-dev
 
 # RESULTS
 - # CORNER DETECTION
