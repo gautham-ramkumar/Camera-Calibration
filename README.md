@@ -3,6 +3,6 @@ Camera calibration is a key skill in computer vision and robotics. It is essenti
 
 
 # Tools:
--C++
--OpenCV (C++ API)
--Ubuntu 22.04 (WSL2)
+- C++
+- OpenCV (C++ API)
+- Ubuntu 22.04 (WSL2)
